@@ -14,6 +14,7 @@ file_programmingcontest = open('programmingcontest','wr')
 file_developingcontest = open('developingcontest','wr')
 file_discussions = open('discussions','wr')
 file_comments = open('comments','wr')
+file_problems = open('problems','wr')
 
 usernames = '''brringstreets tennisvagary abackfink dogreceive brouhaharhyming deadbeatpheasant pridefulfish sobwrathful marrybog hootenanydock extrasmallobeisant
 headedvillainous stinkyhills danishracket concretebranch numbstrung scrubtoes narroweat selfishoceanic armtoothsome politewoozy jumpingdray verdantpoised loftyhomely 
@@ -31,7 +32,7 @@ crumbletriathlon modestfanny cleverundress uppityintend netcompetitor rejectyode
 arraymother groinabashed hooverviolet makingdemanding professwoebegone boomerangsober followmeasly notedpecan bruisefunctional ownhyena shutbaggage pingpongpedlar
 protectivespew eyeballsthrust buyerromantic needledebate bindbaffled adevilish polepad chompsamovar havingbowling zaftiglearned anarchistclassic whiningbaa
 turkeygluttonous cartoonadmonish gapingmoon labouraccused purseimply scoldlobe specificpuddles dependentactor doodlewhipper secretiveflyingfish abashedlush
-soullessspiky cappeddroning highjumpwhirl ratbumpy pillowchickens impetuouscrayon applestottering thundersmack luxuriousbeautiful traumaticfragile'''.split()
+soullessspiky cappeddroning highjumpwhirl ratbumpy pillowchickens impetuouscrayon applestottering thundersmack luxuriousbeautiful traumaticfr[1agile'''.split()
 
 def password_generator(size = 10, chars = string.ascii_uppercase + string.digits + string.lowercase):
 	password = []
@@ -153,7 +154,20 @@ titles.append(" A tight vein plays after a spoof. ")
 
 discussionids = []
 
+programmingcontests = []
 
+problems = []
+problems.append("Print Fibonacci")
+problems.append("Check if symmetric")
+problems.append("Binary Sort")
+problems.append("Breadth First Traversal")
+problems.append("Make an android app")
+problems.append("Make a windows app")
+problems.append("Make an iOS app")
+problems.append("Program a red black tree")
+problems.append("Program a jump list")
+problems.append("Make a C compiler")
+problems.append("Make a python COMPILER")
 
 insert_user_acc = '''INSERT INTO user_acc VALUES ('%(username)s', '%(password)s');\n'''
 insert_team = '''INSERT INTO team VALUES ('%(teamname)s', '%(teamid)s');\n '''
@@ -165,8 +179,9 @@ insert_judge = '''INSERT INTO judges VALUES('%(username)s', '%(contestid)s');\n'
 insert_sponsor = '''INSERT INTO sponsors VALUES('%(username)s', '%(contestid)s');\n'''
 insert_programmingcontest = '''INSERT INTO programmingcontest VALUES('%(contestid)s')\n'''
 insert_developingcontest = '''INSERT INTO developingcontest VALUES('%(contestid)s',	'%(theme)s')\n'''
-insert_discussions = '''INSERT INTO discussions VALUE('%(discussionid)s', '%(username)s', '%(contestid)s', '%(title)s')\n'''
-insert_comment = '''INSERT INTO comments VALUE('%(discussionid)s', '%(username)s', '%(timestamp)s', '%(text)s')\n'''
+insert_discussions = '''INSERT INTO discussions VALUES('%(discussionid)s', '%(username)s', '%(contestid)s', '%(title)s')\n'''
+insert_comment = '''INSERT INTO comments VALUES('%(discussionid)s', '%(username)s', '%(timestamp)s', '%(text)s')\n'''
+insert_problems = '''INSERT INTO problems VALUES('%(discussionid)s', '%(contestid)s', '%(problemname)s', '%(difficulty)s, '%(text)s, '%(testcase)s', '%(examples)s', '%(deadline)s')\n'''
 
 def write_user_acc():
 	for i in range(200):
@@ -272,6 +287,7 @@ def write_programmingcontest():
 	for i in range(len(contestids)):
 		if not i % 3 == 0:
 			query = insert_programmingcontest % { "contestid": contestids[i] }
+			programmingcontests.append(contestids[i])
 			file_programmingcontest.write(query)
 	file_programmingcontest.close()
 
@@ -304,6 +320,28 @@ def write_comments():
 			file_comments.write(query)
 	file_comments.close()
 
+def write_problems():
+	for id in programmingcontests:
+		problemo = []
+		for i in range(random.randint(0,6)):
+			problemname =  random.choice(problems)
+			if problemname in problemo:
+				continue
+			problemo.append(problemname)
+			if random.choice([1,0,0,0,0]):
+				discussionid = random.choice(discussionids)
+			else:
+				discussionid = ' '
+			text = 'dummy text'
+			testcase = 'dummy text'
+			examples = 'The quick brown fox jumped over the lazy dog'
+			deadline = str(datetime.datetime.now())[:-7]
+			difficulty = random.choice(['easy','medium','hard','very easy', 'very hard'])
+			query = insert_problems % {"discussionid":discussionid, "contestid":id, "problemname":problemname, "difficulty":difficulty, "text":text, "testcase":testcase, "examples":examples,"deadline":deadline } 
+			file_problems.write(query)
+	file_problems.close()
+
+
 
 write_user_acc()
 write_team()
@@ -317,3 +355,4 @@ write_programmingcontest()
 write_developingcontest()
 write_discussions()
 write_comments()
+write_problems()
