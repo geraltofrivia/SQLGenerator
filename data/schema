@@ -1,0 +1,12 @@
+CREATE TABLE User_acc(
+UserName varchar(20) NOT NULL,
+Password varchar(20),
+PRIMARY KEY(UserName)
+);
+
+CREATE TABLE Team(
+TeamName varchar(50) NOT NULL,
+TeamId varchar(20) NOT NULL,
+PRIMARY KEY(TeamId)
+);
+

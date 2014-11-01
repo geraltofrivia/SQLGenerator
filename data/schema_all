@@ -1,0 +1,98 @@
+CREATE TABLE User_acc(
+UserName varchar(20) NOT NULL,
+Password varchar(20),
+PRIMARY KEY(UserName)
+);
+
+CREATE TABLE Team(
+TeamName varchar(50) NOT NULL,
+TeamId varchar(20) NOT NULL,
+PRIMARY KEY(TeamId)
+);
+
+CREATE TABLE Members(
+UserName varchar(20)  references  User_acc(username),
+TeamId varchar(20)  references Team(teamid),
+PRIMARY KEY (TeamId, UserName)
+);
+
+CREATE TABLE Submissions(
+Submissionid varchar(50) NOT NULL,
+Score real NOT NULL ,
+Solutionpath varchar(1000) NOT NULL ,
+Visible boolean NOT NULL ,
+Contestid varchar(20) references Contests(ContestId),
+PRIMARY KEY(SubmissionId)
+);
+
+CREATE TABLE Contests(
+Contestid varchar(100) NOT NULL,
+Contestname varchar(100) NOT NULL ,
+Prize text NOT NULL , 
+Rules text NOT NULL ,
+State text NOT NULL ,
+Guidelines text NOT NULL ,
+PRIMARY KEY(Contestid)
+);
+
+CREATE TABLE Submits_User(
+UserName varchar(20) references User_acc(username),
+Submissionid varchar(20) references Submissions(submissionid) NOT NULL,
+PRIMARY KEY(Submissionid)
+);
+
+CREATE TABLE Judges(
+UserName varchar(20) references User_acc(username) NOT NULL,
+Contestid varchar(20) references Contests(contestid) NOT NULL,
+PRIMARY KEY(Username , Contestid)
+);
+
+CREATE TABLE Sponsors(
+UserName varchar(20) references User_acc(username) NOT NULL,
+Contestid varchar(20) references Contests(contestid) NOT NULL,
+PRIMARY KEY(Username , Contestid)
+);
+
+CREATE TABLE ProgrammingContest(
+Contestid varchar(20) references Contests(contestid) NOT NULL,
+PRIMARY KEY(Contestid)
+);
+
+CREATE TABLE DevelopingContest(
+Contestid varchar(20) references Contests(contestid) NOT NULL,
+Theme text NOT NULL ,
+PRIMARY KEY(Contestid)
+);
+
+CREATE TABLE Discussions(
+Discussionid varchar(20) NOT NULL,
+Username varchar(20) references User_acc(username) NOT NULL,
+Contestid varchar(20) references Contests(contestid) NOT NULL,
+Title text NOT NULL,
+PRIMARY KEY(Discussionid)
+);
+
+CREATE TABLE Comments(
+Discussionid varchar(20) references Discussions(discussionid) NOT NULL,
+Username varchar(20) references User_acc(username) NOT NULL,
+timestamp text NOT NULL,
+Text text NOT NULL,
+PRIMARY KEY(Discussionid, timestamp)
+);
+
+CREATE TABLE Problems (
+Contestid varchar(20) references Contests(contestid) NOT NULL ,
+problemname varchar(200) NOT NULL,
+difficulty text NOT NULL,
+Text text NOT NULL,
+Testcase text NOT NULL,
+Examples text NOT NULL,
+Deadline text NOT NULL,
+PRIMARY KEY(problemname , contestid)
+);
+
+CREATE TABLE Submits_Team(
+Teamid varchar(20) references Team(teamid),
+Submissionid varchar(20) references Submissions(submissionid) NOT NULL,
+PRIMARY KEY(Submissionid)
+);
