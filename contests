@@ -1,0 +1,439 @@
+INSERT INTO contests VALUES ('ceorpporee', ' ProjectEuler+ ', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Competitors should not log out of their computer for the duration of the contest.
+Style of the solution will not be considered in the judging.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('otbnanomco', ' October Gamathon ', 'All decisions of the contest officials are final.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Style of the solution will not be considered in the judging.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES (''abastlth'', ' Let's Bash! ', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All decisions of the contest officials are final.
+Competitors should not log out of their computer for the duration of the contest.
+Style of the solution will not be considered in the judging.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('1801a8c1h1', ' 101hack18 ', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Competitors should not log out of their computer for the duration of the contest.
+Style of the solution will not be considered in the judging.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('diaaidillu', ' Lambda Calculi ', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Competitors should not log out of their computer for the duration of the contest.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Use of internet is allowed
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('soitedpnre', ' Code Sprint ', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Your mentor must not have written any part of the code
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Use of internet is allowed
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ecieodgrve', ' Evernote Coding Challenge ', 'Use of internet is allowed
+Your mentor must not have written any part of the code
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('tssosstrer', ' Code Masters ', 'You may update the submission even after uploading it already, till the timer goes off.
+All decisions of the contest officials are final.
+Your mentor must not have written any part of the code
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('tcefsttcfs', ' TechFest ', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('inmiminsns', ' Insomnia ', 'Competitors should not log out of their computer for the duration of the contest.
+Style of the solution will not be considered in the judging.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('czlczsceez', ' Clash Credenz ', 'Style of the solution will not be considered in the judging.
+Use of internet is allowed
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('corppopoon', ' Procon ', 'All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+Style of the solution will not be considered in the judging.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('opoehuueoh', ' Prometheus ', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Your mentor must not have written any part of the code
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('gcomfseogo', ' Game of Codes ', 'Your mentor must not have written any part of the code
+Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ebtlbttitt', ' Bit Battle ', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All decisions of the contest officials are final.
+Your mentor must not have written any part of the code
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('sbbaabbcau', ' abacus ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All decisions of the contest officials are final.
+Style of the solution will not be considered in the judging.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('todeeoeded', ' Codelt ', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Use of internet is allowed
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('yoooeebbeb', ' Byte Code ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Use of internet is allowed
+All decisions of the contest officials are final.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('meatimmtmt', ' Dementia ', 'Competitors should not log out of their computer for the duration of the contest.
+All decisions of the contest officials are final.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ngusngnssi', ' Ignus ', 'Your mentor must not have written any part of the code
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ittiniitri', ' Trinity ', 'You may update the submission even after uploading it already, till the timer goes off.
+All decisions of the contest officials are final.
+Your mentor must not have written any part of the code
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('cmniarmmnu', ' Cranium ', 'Style of the solution will not be considered in the judging.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Competitors should not log out of their computer for the duration of the contest.
+You may update the submission even after uploading it already, till the timer goes off.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('sarahhshsa', ' Shaastra ', 'All decisions of the contest officials are final.
+Your mentor must not have written any part of the code
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('e2dececccd', ' Ode2Code ', 'Style of the solution will not be considered in the judging.
+You may update the submission even after uploading it already, till the timer goes off.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All decisions of the contest officials are final.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('zacczecdor', ' Code Czar ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+You may update the submission even after uploading it already, till the timer goes off.
+Style of the solution will not be considered in the judging.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('gaeagrpepa', ' Pravega ', 'All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('pninitiisi', ' Inscription ', 'Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+Use of internet is allowed
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('sspscrpspc', ' Cryptoss ', 'Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('birbaettfe', ' Bit Freak ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All decisions of the contest officials are final.
+Use of internet is allowed
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ppopcpoopi', ' IOPC ', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ppyhnnipin', ' Epiphany ', 'Style of the solution will not be considered in the judging.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('iictitinee', ' Conscientia', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All decisions of the contest officials are final.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('set0e0an0e', '10-70 REPEATER ASSN ', 'Use of internet is allowed
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+You may update the submission even after uploading it already, till the timer goes off.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eaaerureaa', ' ABB RADIO AMATEURS ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All decisions of the contest officials are final.
+Style of the solution will not be considered in the judging.
+Your mentor must not have written any part of the code
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('riggagxoua', ' ARAUCARIA DX GROUP', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Style of the solution will not be considered in the judging.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('f--cyofkl2', ' July Cook-off 2011 ', 'Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+Competitors should not log out of their computer for the duration of the contest.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('-lnttdancc', ' J.N.E.C. - Dialect ', 'All decisions of the contest officials are final.
+Use of internet is allowed
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ttutuauuds', ' Code Mutants', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+You may update the submission even after uploading it already, till the timer goes off.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('tdrooututu', ' Code Turtles', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Competitors should not log out of their computer for the duration of the contest.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rtleuteett', ' Turtles', 'Your mentor must not have written any part of the code
+Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('''wmwtmorr', ' TNMT of Tomorrow'', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+Use of internet is allowed
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ituteturke', '	NIT - Kurukshetra ', 'Competitors should not log out of their computer for the duration of the contest.
+All decisions of the contest officials are final.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('11101kk811', ' 101hack18 ', 'All decisions of the contest officials are final.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ughlhnuhja', ' July Gamathon ', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+You may update the submission even after uploading it already, till the timer goes off.
+Style of the solution will not be considered in the judging.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('hhohtaedae', ' Addepar Hackathon ', 'Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+Use of internet is allowed
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('0a1amh1mh0', ' 101 Hack May ', 'You may update the submission even after uploading it already, till the timer goes off.
+Style of the solution will not be considered in the judging.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('arehsgahgt', ' Guess the rating ', 'Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('emacreht-a', ' MGM - Tech Arete ', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Style of the solution will not be considered in the judging.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ltiaicctcm', ' 	ACM Trial', 'Competitors should not log out of their computer for the duration of the contest.
+All decisions of the contest officials are final.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Your mentor must not have written any part of the code
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('e-moeldedz', 'Limit-de-Plazo', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Use of internet is allowed
+Competitors should not log out of their computer for the duration of the contest.
+All decisions of the contest officials are final.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('cw1wcpcrwc', ' ICPC Warmup 1', 'All decisions of the contest officials are final.
+Style of the solution will not be considered in the judging.
+Use of internet is allowed
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('memmmmmeem', 'EMA', 'All decisions of the contest officials are final.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+You may update the submission even after uploading it already, till the timer goes off.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('cececcceee', 'CE', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Style of the solution will not be considered in the judging.
+Your mentor must not have written any part of the code
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ciecroiocc', 'Icoder', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+You may update the submission even after uploading it already, till the timer goes off.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('dssasrdmae', ' Dreamspark', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ooocolegcl', ' Google Code In', 'Style of the solution will not be considered in the judging.
+You may update the submission even after uploading it already, till the timer goes off.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('lgogoglloo', ' Google Code Out', 'Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Competitors should not log out of their computer for the duration of the contest.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eooodpoouo', ' Google Code Up', 'Competitors should not log out of their computer for the duration of the contest.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Use of internet is allowed
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('egnoenlcog', ' Google Code Down', 'Style of the solution will not be considered in the judging.
+Competitors should not log out of their computer for the duration of the contest.
+Use of internet is allowed
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('gtgefeffod', ' Google Code Left', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All decisions of the contest officials are final.
+Use of internet is allowed
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('lhlidcohoo', ' Google Code Right', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All decisions of the contest officials are final.
+You may update the submission even after uploading it already, till the timer goes off.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rttlftcfrf', 'CTRLF1', 'Competitors should not log out of their computer for the duration of the contest.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All decisions of the contest officials are final.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('t2ccrf2ff2', 'CTRLF2', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+Competitors should not log out of their computer for the duration of the contest.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ltcft3ctr3', 'CTRLF3', 'You may update the submission even after uploading it already, till the timer goes off.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Use of internet is allowed
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rtft44tlcl', 'CTRLF4', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('clctrflrrr', 'CTRLF5', 'Use of internet is allowed
+You may update the submission even after uploading it already, till the timer goes off.
+Your mentor must not have written any part of the code
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rcr66f6crr', 'CTRLF6', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Competitors should not log out of their computer for the duration of the contest.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('lrlc7l7tcf', 'CTRLF7', 'Use of internet is allowed
+Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('tt88tltfrc', 'CTRLF8', 'Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ltft9tfftt', 'CTRLF9', 'Use of internet is allowed
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('0t1rtr10lf', 'CTRLF10', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Style of the solution will not be considered in the judging.
+All decisions of the contest officials are final.
+Your mentor must not have written any part of the code
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ff1fftrltc', 'CTRLF11', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Your mentor must not have written any part of the code
+You may update the submission even after uploading it already, till the timer goes off.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('flfl2fl2tr', 'CTRLF12', 'Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rxbuibiuri', 'Rubix', 'All decisions of the contest officials are final.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+You may update the submission even after uploading it already, till the timer goes off.
+Style of the solution will not be considered in the judging.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('zesezstztt', ' Tz Test', 'Competitors should not log out of their computer for the duration of the contest.
+You may update the submission even after uploading it already, till the timer goes off.
+Use of internet is allowed
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('czuddeczud', ' Code Buzz', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eldrrddlrn', ' Code Aldrin', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Use of internet is allowed
+You may update the submission even after uploading it already, till the timer goes off.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('uurkkruuqk', ' Quark', 'You may update the submission even after uploading it already, till the timer goes off.
+All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('uuquuqakek', ' Quake', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+You may update the submission even after uploading it already, till the timer goes off.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('zcttvtntha', ' Technovanza', 'All decisions of the contest officials are final.
+You may update the submission even after uploading it already, till the timer goes off.
+Your mentor must not have written any part of the code
+Competitors should not log out of their computer for the duration of the contest.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('wnkanankwn', ' Snack Down', 'Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ncaccnoomn', ' Smack Down', 'Style of the solution will not be considered in the judging.
+Your mentor must not have written any part of the code
+Competitors should not log out of their computer for the duration of the contest.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'active' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rrraawwrrr', ' Raw', 'Use of internet is allowed
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Your mentor must not have written any part of the code
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eawttrreen', ' Wrestlemania', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All decisions of the contest officials are final.
+Use of internet is allowed
+Style of the solution will not be considered in the judging.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('asrumsemma', ' Summer Slam', 'All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+Use of internet is allowed
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('nayyydybus', ' Cyber Sunday', 'Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Your mentor must not have written any part of the code
+Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('sbneaerhor', ' No Holes Barred', 'Use of internet is allowed
+Competitors should not log out of their computer for the duration of the contest.
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('onncnwkcea', ' Resnack Down', 'You may update the submission even after uploading it already, till the timer goes off.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Your mentor must not have written any part of the code
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ebuueoeumo', ' Royal Rumble', 'Competitors should not log out of their computer for the duration of the contest.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('abbklacchs', ' Backlash', 'Competitors should not log out of their computer for the duration of the contest.
+You may update the submission even after uploading it already, till the timer goes off.
+Style of the solution will not be considered in the judging.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('kcakasshcc', ' Backslash', 'Use of internet is allowed
+Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+You may update the submission even after uploading it already, till the timer goes off.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ebreooadbb', ' Code Baker', 'All decisions of the contest officials are final.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+Competitors should not log out of their computer for the duration of the contest.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eaerbddeec', ' Code Baker Street', 'Both input and output format are crucial. Adhere to them precisely to avoid getting solutions judged as wrong.
+All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+', 'early' , 'Demo Guideline');
+INSERT INTO contests VALUES ('icoccprnst', 'Inscription', 'All decisions of the contest officials are final.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('rreichiicr', ' iDecipher', 'You may update the submission even after uploading it already, till the timer goes off.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eiictieeop', ' Inception', 'Style of the solution will not be considered in the judging.
+Your mentor must not have written any part of the code
+All decisions of the contest officials are final.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('nsanioomni', ' Insomnia', 'All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+You may update the submission even after uploading it already, till the timer goes off.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('ufubcfutff', ' Fight Club', 'Use of internet is allowed
+Competitors should not log out of their computer for the duration of the contest.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'open' , 'Demo Guideline');
+INSERT INTO contests VALUES ('eotrhresok', ' The Rooks', 'Use of internet is allowed
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+Plagarism is a bad habit and any forms of it will lead to a direct, non negotiabel disqualification
+', 'closed' , 'Demo Guideline');
+INSERT INTO contests VALUES ('wenotosett', ' Most Wanted', 'You may update the submission even after uploading it already, till the timer goes off.
+All programs are text based. Programs must read input from a designated input file with a given filename and write output to stdout.
+All decisions of the contest officials are final.
+All sponsors will remain in the observing area and may not communicate with the team during the rounds.
+', 'early' , 'Demo Guideline');
